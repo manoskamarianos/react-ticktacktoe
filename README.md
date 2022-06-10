@@ -1,6 +1,6 @@
 # A simple ticktacktoe:
 
-This project was made by following the tutorial in [react documendation](https://reactjs.org/tutorial/tutorial.html). Also, I have implimented the additional features that are suggested in the page.
+This project was made by following the tutorial in [react documendation](https://reactjs.org/tutorial/tutorial.html). Also, I have implemented the additional features that are suggested on the page.
 
 ## Table of Content:
 
@@ -19,8 +19,8 @@ This project was made by following the tutorial in [react documendation](https:/
  * Toggle button that lets you sort the moves in either ascending or descending order.
  * When someone wins, it highlights the three squares that caused the win.
  * When no one wins, a message is displayed about the result being a draw.
-### Instalation guide:
-In order to run the app localy, you will need the latest version of node-js. After that you will just need to use npm.  
+### Installation guide:
+To run the app locally, you will need the latest version of node-js. After that, you will just need to use npm.  
 
 ### List of commands:
 #### `npm start`
@@ -45,6 +45,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### Further information
 
-This was my first react project, therefore many mistakes or bad practises might been used. I encourage you to mention if you find any although I will probably not further update this project.
+This was my first react project, therefore many mistakes or bad practices might have been used. I encourage you to mention if you find any, although I will probably not further update this project.
 
 > Development Finished: 10/6/2022
